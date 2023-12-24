@@ -1,6 +1,7 @@
-# Traffic interception via Charles Proxy
+# Traffic interception via Charles Proxy 🍶
 
 In this module, I tested http://demowebshop.tricentis.com in mobile device
+
 Task #1
 1. Changing product quantity: https://youtu.be/vJ_PHncWaP8
 2. The server will return status code 403: https://www.youtube.com/watch?v=_ZlVtczh8UA
